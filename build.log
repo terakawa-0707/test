@@ -1,0 +1,15 @@
+Logfile initialized
+[INFO] logfile = /Users/tera/Documents/Titanium Studio Workspace/test/build.log
+[DEBUG] /Users/tera/Library/Application Support/Titanium/mobilesdk/osx/1.7.2/android/builder.py simulator test /Users/tera/AndroidSDK /Users/tera/Documents/Titanium Studio Workspace/test jp.mydns.crystal 7 HVGA 192.168.1.132:54380
+[INFO] Building test for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again
+[DEBUG] signal caught: 15
+[DEBUG] calling emulator kill on 10536
